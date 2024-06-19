@@ -1,1 +1,2 @@
-# HCI
+# Motor Imagery based Photo Viewer / HCI project
+This project focuses on developing a subject-dependent Brain-Computer Interface (BCI) using EEG data for motor imagery tasks. The interface is trained and tested using EEG data from the same subject to classify two motor imagery classes: right and left hand movements. The project utilizes freely available BCI Competition datasets, particularly the BCIC IV dataset IIa.
