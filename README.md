@@ -17,3 +17,11 @@ Results for at least one subject are included, showcasing the classification acc
 I included the datasets, which was originally here https://github.com/bregydoc/bcidatasetIV2a  
 The datasets is IV2a, the description is here https://www.bbci.de/competition/iv/desc_2a.pdf  
 This is link to BCI Competition IV https://www.bbci.de/competition/iv/ which contains above page
+
+# How to Run the GUI for Motor Imagery Based Photo Viewer
+* Prerequisites * 
+Before you begin, ensure you have the following installed on your system:
+
+    Python 3.7 or higher
+    Required Python packages (listed in requirements.txt)
+
