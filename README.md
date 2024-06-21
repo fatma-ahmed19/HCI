@@ -25,10 +25,42 @@ Before you begin, ensure you have the following installed on your system:
 - Python 3.7 or higher
 -  Required Python packages (listed in requirements.txt)
    
-##Step-by-Step Instructions
+## Step-by-Step Instructions
 1) Clone the Repository 
 Clone the repository to your local machine using the following command:
 
 ```python
- git clone https://github.com/your-username/motor-imagery-photo-viewer.git
+git clone https://github.com/fatma-ahmed19/motor-imagery-photo-viewer.git
+cd motor-imagery-photo-viewer
 ```
+2) Run the GUI Application
+
+Execute the following command to start the GUI:
+```python
+python gui_app.py
+```
+# Detailed GUI Usage
+1) Launching the Application
+
+When you run the gui_app.py script, a window will pop up. This is the main interface of the application.
+
+2) Applying Predictions
+
+  - Step 1: Click the "Apply Prediction" button to start the prediction process.
+  - Step 2: Observe the button's color change when it matches the predicted outcome (next image).
+    
+3) Viewing Predictions
+
+   - The application will display the predicted outcome and the next image accordingly.
+   - Continue clicking "Apply Prediction" to view subsequent predictions.
+
+4) Exiting the Application
+
+Close the window or press the designated exit button within the application to terminate the GUI.
+
+5) Troubleshooting
+
+    - If the GUI does not launch, ensure all dependencies are correctly installed.
+    - Verify you are using the compatible version of Python.
+    - Check for any error messages in the terminal and refer to the FAQ or open an issue in the repository for assistance.
+
