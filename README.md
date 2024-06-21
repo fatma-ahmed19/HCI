@@ -29,6 +29,6 @@ Before you begin, ensure you have the following installed on your system:
 1) Clone the Repository 
 Clone the repository to your local machine using the following command:
 
-```
--- git clone https://github.com/your-username/motor-imagery-photo-viewer.git
+```python
+ git clone https://github.com/your-username/motor-imagery-photo-viewer.git
 ```
