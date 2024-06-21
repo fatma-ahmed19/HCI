@@ -19,9 +19,10 @@ The datasets is IV2a, the description is here https://www.bbci.de/competition/iv
 This is link to BCI Competition IV https://www.bbci.de/competition/iv/ which contains above page
 
 # How to Run the GUI for Motor Imagery Based Photo Viewer
-* Prerequisites * 
+## Prerequisites :
+ 
 Before you begin, ensure you have the following installed on your system:
 
-    Python 3.7 or higher
-    Required Python packages (listed in requirements.txt)
+- Python 3.7 or higher
+-  Required Python packages (listed in requirements.txt)
 
