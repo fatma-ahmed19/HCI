@@ -40,7 +40,7 @@ Execute the following command to start the GUI:
 python gui_app.py
 ```
 # Detailed GUI Usage
-1) Launching the Application
+## 1) Launching the Application
 
 When you run the gui_app.py script, a window will pop up. This is the main interface of the application.
 
