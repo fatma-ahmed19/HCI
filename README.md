@@ -44,23 +44,23 @@ python gui_app.py
 
 When you run the gui_app.py script, a window will pop up. This is the main interface of the application.
 
-2) Applying Predictions
+## 2) Applying Predictions
 
   - Step 1: Click the "Apply Prediction" button to start the prediction process.
   - Step 2: Observe the button's color change when it matches the predicted outcome (next image).
     
-3) Viewing Predictions
+## 3) Viewing Predictions
 
    - The application will display the predicted outcome and the next image accordingly.
    - Continue clicking "Apply Prediction" to view subsequent predictions.
 
-4) Exiting the Application
+## 4) Exiting the Application
 
 Close the window or press the designated exit button within the application to terminate the GUI.
 
-5) Troubleshooting
+## 5) Troubleshooting
 
-    - If the GUI does not launch, ensure all dependencies are correctly installed.
-    - Verify you are using the compatible version of Python.
-    - Check for any error messages in the terminal and refer to the FAQ or open an issue in the repository for assistance.
+   - If the GUI does not launch, ensure all dependencies are correctly installed.
+   - Verify you are using the compatible version of Python.
+   - Check for any error messages in the terminal and refer to the FAQ or open an issue in the repository for assistance.
 
